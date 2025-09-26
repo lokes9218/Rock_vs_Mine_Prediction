@@ -1,11 +1,17 @@
-# Rock vs. Mine Prediction
+# Rock_vs_Mine_Prediction  Done By Lokeswaran S
+A machine learning project to classify underwater objects as Rock or Mine using Logistic Regression. Includes dataset, preprocessing, visualization, model training, and evaluation with Google Colab support.
 
 Run this project directly in Google Colab: https://colab.research.google.com/drive/1P8CgzyYXhMAFR-YuZ0WC2f6GLuCSmLhO?usp=sharing
+
 The "Rock vs. Mine Prediction" project focuses on predicting whether an underwater object is a rock or a mine using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), and logistic regression, this project provides an end-to-end solution for accurate classification.
 
 ## Project Overview
 
 The goal of the "Rock vs. Mine Prediction" project is to develop a model that can accurately classify underwater objects as either rocks or mines. This classification task has significant applications in areas such as marine exploration and defense. By utilizing machine learning algorithms and a carefully curated dataset, this project enables accurate predictions for real-world scenarios.
+
+## Description
+
+<img width="1634" height="1013" alt="workflow" src="https://github.com/user-attachments/assets/7b007da9-927a-42c8-89e7-aeafac48c280" />
 
 ## Key Features
 
@@ -34,8 +40,8 @@ The "Rock vs. Mine Prediction" project offers a practical solution for accuratel
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT license. See the [LICENSE] file for more information.
 
 ## Acknowledgements
 
-This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, and Matplotlib. I extend my gratitude to the developers and maintainers of these libraries for their valuable work. In addition, the mentor Lokeswaran S, 
+This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, and Matplotlib. I extend my gratitude to the developers and maintainers of these libraries for their valuable work.
