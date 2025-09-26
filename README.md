@@ -11,7 +11,8 @@ The goal of the "Rock vs. Mine Prediction" project is to develop a model that ca
 
 ## Description
 
-<img width="1634" height="1013" alt="workflow" src="https://github.com/user-attachments/assets/7b007da9-927a-42c8-89e7-aeafac48c280" />
+![Uploading workflow.png…]()
+
 
 ## Key Features
 
