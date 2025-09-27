@@ -29,7 +29,7 @@ The goal of the "Rock vs. Mine Prediction" project is to develop a model that ca
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `gh repo clone MYoussef885/Rock_VS_Mine_Prediction`
+1. Clone the repository: `git clone https://github.com/lokes9218/Rock_vs_Mine_Prediction.git`
 2. Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
 3. Launch Google Colab: https://colab.research.google.com
 4. Open the `Rock_vs_Mine_Prediction.ipynb` file and run the notebook cells sequentially.
