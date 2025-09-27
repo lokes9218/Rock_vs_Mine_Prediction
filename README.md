@@ -1,4 +1,4 @@
-<img width="1634" height="1013" alt="image" src="https://github.com/user-attachments/assets/aec9b71b-66a2-487f-b51d-a929a49aa8eb" /># Rock_vs_Mine_Prediction  Done By Lokeswaran S
+# Rock_vs_Mine_Prediction  Done By Lokeswaran S
 A machine learning project to classify underwater objects as Rock or Mine using Logistic Regression. Includes dataset, preprocessing, visualization, model training, and evaluation with Google Colab support.
 
 Run this project directly in Google Colab: https://colab.research.google.com/drive/1P8CgzyYXhMAFR-YuZ0WC2f6GLuCSmLhO?usp=sharing
